@@ -1,3 +1,3 @@
 # flashcourier
 
-Teste para a empre Flash Courier.
+Teste para a empresa Flash Courier.
