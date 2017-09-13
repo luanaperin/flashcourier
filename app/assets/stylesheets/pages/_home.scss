@@ -30,15 +30,20 @@
 .text-container {
   color: white;
   position: absolute;
-  left: 26px;
+  left: -35px;
   margin-top: 9px;
   padding: 126px;
+    h3 {
+      text-size: 10px;
+    }
 }
 
 .content-images {
-  right: 34em;
+  right: 43em;
   top: 10px;
   width: 40px;
   position: absolute;
+  margin-top: 20px;
 
 }
+
